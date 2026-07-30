@@ -1,0 +1,6 @@
+{
+  "name": "ÁPHERA",
+  "description": "Análisis facial con IA, diagnóstico de tipo de piel, puntos fuertes, áreas de mejora y rutinas dermatológicas personalizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
